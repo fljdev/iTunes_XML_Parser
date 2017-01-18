@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2016-12-03T07:38:37Z</date>
+	<key>Application Version</key><string>12.5.3.17</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/admin/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>EDF8407E7113DB7B</string>
+	<key>Tracks</key>
+	<dict>
+		<key>115</key>
+		<dict>
+			<key>Track ID</key><integer>115</integer>
+			<key>Name</key><string>Once an Angel</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Album Artist</key><string>Neil Young</string>
+			<key>Composer</key><string>Neil Young</string>
+			<key>Album</key><string>Old Ways</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8362193</integer>
+			<key>Total Time</key><integer>235760</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1985</integer>
+			<key>Date Modified</key><date>2016-11-02T10:31:40Z</date>
+			<key>Date Added</key><date>2016-11-02T10:31:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3560927740</integer>
+			<key>Play Date UTC</key><date>2016-11-02T10:35:40Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Old Ways</string>
+			<key>Sort Artist</key><string>Neil Young</string>
+			<key>Sort Name</key><string>Once an Angel</string>
+			<key>Persistent ID</key><string>08F801AA407BD6A7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>119</key>
+		<dict>
+			<key>Track ID</key><integer>119</integer>
+			<key>Name</key><string>Treaty</string>
+			<key>Artist</key><string>Leonard Cohen</string>
+			<key>Album Artist</key><string>Leonard Cohen</string>
+			<key>Composer</key><string>Leonard Cohen</string>
+			<key>Album</key><string>You Want It Darker</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8426251</integer>
+			<key>Total Time</key><integer>242332</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-11-11T15:29:28Z</date>
+			<key>Date Added</key><date>2016-11-11T15:29:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3563097417</integer>
+			<key>Play Date UTC</key><date>2016-11-27T13:16:57Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>You Want It Darker</string>
+			<key>Sort Artist</key><string>Leonard Cohen</string>
+			<key>Sort Name</key><string>Treaty</string>
+			<key>Persistent ID</key><string>385999F54B86A1F0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>1253</key>
+		<dict>
+			<key>Track ID</key><integer>1253</integer>
+			<key>Name</key><string>5:06 AM (Every Strangers Eyes)</string>
+			<key>Artist</key><string>Roger Waters</string>
+			<key>Album Artist</key><string>Roger Waters</string>
+			<key>Composer</key><string>Roger Waters</string>
+			<key>Album</key><string>The Pros and Cons of Hitch Hiking</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10357041</integer>
+			<key>Total Time</key><integer>288720</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1984</integer>
+			<key>Date Modified</key><date>2016-12-03T07:30:33Z</date>
+			<key>Date Added</key><date>2016-12-03T07:30:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Pros and Cons of Hitch Hiking</string>
+			<key>Sort Artist</key><string>Roger Waters</string>
+			<key>Sort Name</key><string>5:06 AM (Every Strangers Eyes)</string>
+			<key>Persistent ID</key><string>CE41A04A6695E401</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1326</key>
+		<dict>
+			<key>Track ID</key><integer>1326</integer>
+			<key>Name</key><string>5:01 AM (The Pros and Cons of Hitch Hiking, Pt. 10)</string>
+			<key>Artist</key><string>Roger Waters</string>
+			<key>Album Artist</key><string>Roger Waters</string>
+			<key>Composer</key><string>Roger Waters</string>
+			<key>Album</key><string>The Pros and Cons of Hitch Hiking</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9760864</integer>
+			<key>Total Time</key><integer>276760</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1984</integer>
+			<key>Date Modified</key><date>2016-12-03T07:32:17Z</date>
+			<key>Date Added</key><date>2016-12-03T07:32:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Pros and Cons of Hitch Hiking</string>
+			<key>Sort Artist</key><string>Roger Waters</string>
+			<key>Sort Name</key><string>5:01 AM (The Pros and Cons of Hitch Hiking, Pt. 10)</string>
+			<key>Persistent ID</key><string>2F2128BC02548F0A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1359</key>
+		<dict>
+			<key>Track ID</key><integer>1359</integer>
+			<key>Name</key><string>Alan's Psychedelic Breakfast</string>
+			<key>Artist</key><string>Pink Floyd</string>
+			<key>Album Artist</key><string>Pink Floyd</string>
+			<key>Composer</key><string>David Gilmour, Mason, Nick Mason, WATERS, Roger Waters, Richard Wright &#38; Wright</string>
+			<key>Album</key><string>Atom Heart Mother</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>30032678</integer>
+			<key>Total Time</key><integer>778988</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>1970</integer>
+			<key>Date Modified</key><date>2016-12-03T07:33:40Z</date>
+			<key>Date Added</key><date>2016-12-03T07:33:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Atom Heart Mother</string>
+			<key>Sort Artist</key><string>Pink Floyd</string>
+			<key>Sort Name</key><string>Alan's Psychedelic Breakfast</string>
+			<key>Persistent ID</key><string>97ED98A8813FC159</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1379</key>
+		<dict>
+			<key>Track ID</key><integer>1379</integer>
+			<key>Name</key><string>Rose Tattoo</string>
+			<key>Artist</key><string>Dropkick Murphys</string>
+			<key>Album Artist</key><string>Dropkick Murphys</string>
+			<key>Composer</key><string>Al Barr, James Lynch, Jeff DaRosa, Ken Casey, Matt Kelly &#38; Tim Brennan</string>
+			<key>Album</key><string>Signed and Sealed In Blood</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11413149</integer>
+			<key>Total Time</key><integer>306543</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-12-03T07:34:00Z</date>
+			<key>Date Added</key><date>2016-12-03T07:34:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Signed and Sealed In Blood</string>
+			<key>Sort Artist</key><string>Dropkick Murphys</string>
+			<key>Sort Name</key><string>Rose Tattoo</string>
+			<key>Persistent ID</key><string>F582063E9A142D01</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1433</key>
+		<dict>
+			<key>Track ID</key><integer>1433</integer>
+			<key>Name</key><string>The Boys Are Back (Acoustic)</string>
+			<key>Artist</key><string>Dropkick Murphys</string>
+			<key>Album Artist</key><string>Dropkick Murphys</string>
+			<key>Composer</key><string>Al Barr, James Lynch, Jeff DaRosa, Ken Casey, Matt Kelly &#38; Tim Brennan</string>
+			<key>Album</key><string>Signed and Sealed In Blood</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7845265</integer>
+			<key>Total Time</key><integer>195861</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-12-03T07:35:01Z</date>
+			<key>Date Added</key><date>2016-12-03T07:35:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Signed and Sealed In Blood</string>
+			<key>Sort Artist</key><string>Dropkick Murphys</string>
+			<key>Sort Name</key><string>Boys Are Back (Acoustic)</string>
+			<key>Persistent ID</key><string>1D9B5755843BDAA0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>myPlaylist</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>1259</integer>
+			<key>Playlist Persistent ID</key><string>B9B0E7063B97C45D</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>1253</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1326</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1359</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1379</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1433</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>115</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>119</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Rest_JPA_XML_Parser:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="john.war">
+      <element id="artifact" artifact-name="Rest_JPA_XML_Parser:war exploded" />
+    </root>
+  </artifact>
+</component>
